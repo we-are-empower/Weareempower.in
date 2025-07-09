@@ -176,15 +176,7 @@
         <div class="section">
             <h2>TYPES OF WAE</h2>
             <div class="logo-grid">
-                <img src="images/wae-academy.png" alt="WAE Academy">
-                <img src="images/organization-committee.png" alt="Organization Committee">
-                <img src="images/color-studio.png" alt="Color Studio">
-                <img src="images/live-events.png" alt="WAE Live">
-                <img src="images/collection.png" alt="WAE Collection">
-                <img src="images/editing-team.png" alt="Editing Team">
-                <img src="images/state-team.png" alt="State Team">
-                <img src="images/elite-club.png" alt="Elite Club">
-                <img src="images/thynk-wae.png" alt="THYNK WAE">
+                <img src="images/wae-all-sector.png" alt="wae all sector">
             </div>
             <p>WAE Academy ensures Education for All, while the Digital Academy equips youth with modern skills. The Medical Wing spreads health awareness and care. The Organization Committee manages planning and execution across India.</p>
             <p>The Art Academy, Color Studio, and Creative Team nurture creativity, while THYNK WAE drives innovation. The Environment Project promotes green living and sustainability. The State Teams mobilize local impact across regions.</p>
