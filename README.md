@@ -96,7 +96,7 @@
 <body>
 
     <header>
-        <img src="images/logo-main.png" alt="WAE Main Logo" width="100">
+        <img src="images/logo-main.png" alt="WAE Main Logo" width="200">
         <h1>WE ARE EMPOWER FOUNDATION</h1>
         <h2>WE'RE DESIGNING THE FUTURE</h2>
         <p>We Are Empower, every step forward is a step toward self-belief.</p>
@@ -178,6 +178,7 @@
             <div class="logo-grid">
                 <img src="images/wae-all-sector.png" alt="wae all sector">
             </div>
+            
             <p>WAE Academy ensures Education for All, while the Digital Academy equips youth with modern skills. The Medical Wing spreads health awareness and care. The Organization Committee manages planning and execution across India.</p>
             <p>The Art Academy, Color Studio, and Creative Team nurture creativity, while THYNK WAE drives innovation. The Environment Project promotes green living and sustainability. The State Teams mobilize local impact across regions.</p>
             <p>WAE also conducts live events, operates WAE Collections for identity-driven merchandise, and supports learning through WAE Consulting and Editing Team services. The Administrative Wing ensures strong internal governance, while the Elite Club honors excellence in service.</p>
