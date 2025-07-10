@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>We Are Empower - NGO</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    nav {
+      background-color: #333;
+      padding: 12px 0;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 20px;
+      font-weight: bold;
+      font-size: 16px;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 40px 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ✅ Menu Bar -->
+  <nav>
+    <a href="#about">About Us</a>
+    <a href="#activities">Activities</a>
+    <a href="#contact">Contact</a>
+    <a href="#events">Events List</a>
+  </nav>
+
+  <!-- ✅ About Us -->
+  <section id="about">
+    <h2>About Us</h2>
+    <p>We Are Empower is an NGO founded by Vaibhav Thakur. Our mission is to support students, raise awareness about government schemes, and empower communities through education and skills.</p>
+  </section>
+
+  <!-- ✅ Activities -->
+  <section id="activities">
+    <h2>Our Activities</h2>
+    <p>We conduct educational workshops, career guidance sessions, digital literacy training, and skill development programs for youth and needy individuals.</p>
+  </section>
+
+  <!-- ✅ Contact -->
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:weareempowerindia@gmail.com">weareempowerindia@gmail.com</a></p>
+  </section>
+
+  <!-- ✅ Events List -->
+  <section id="events">
+    <h2>Events List</h2>
+    <ul>
+      <li>🎉 Diwali Event – 2025</li>
+      <li>🏆 Guru Purnima Competition – Upcoming</li>
+    </ul>
+  </section>
+
+</body>
+</html>
